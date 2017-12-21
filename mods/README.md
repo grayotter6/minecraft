@@ -2,7 +2,7 @@
 
 Forge versions needed:
 
-## 1.10.2-forge1.10.2-12.18.3.2422
+## forge-1.10.2-12.18.3.2511
  - DrZhark's Mo'Creatures Mod-10.0.6
  - Decocraft-2.3.6.1_1.10.2
  
