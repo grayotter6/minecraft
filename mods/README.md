@@ -9,7 +9,7 @@ Forge versions needed:
 ## 1.12-forge1.12-14.21.1.2443
  - Baby-Animals-Mod-1.12
 
-## forge-1.12.2-14.23.1.2589-installer-win.exe
+## forge-1.12.2-14.23.1.2589-installer-win
  - Minecraft Comes Alive (villagers mod - requires the RadixCore mod as well)
-   - MCA-1.12.x-5.3.1-universal.jar
-   - RadixCore-1.12.2.jar
+   - MCA-1.12.x-5.3.1-universal
+   - RadixCore-1.12.2
