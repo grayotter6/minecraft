@@ -15,3 +15,4 @@ Forge versions needed:
  - Minecraft Comes Alive (villagers mod - requires the RadixCore mod as well)
    - MCA-1.12.x-5.3.1-universal
    - RadixCore-1.12.2
+ - Harvest Craft (HarvestCraft-Mod-1.12.2)
