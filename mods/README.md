@@ -16,3 +16,6 @@ Forge versions needed:
    - MCA-1.12.x-5.3.1-universal
    - RadixCore-1.12.2
  - Harvest Craft (HarvestCraft-Mod-1.12.2)
+ 
+ ## forge-1.8.9-11.15.1.2318-1.8.9-installer-win
+ - DoggyStyle-Mod-1.8.9
