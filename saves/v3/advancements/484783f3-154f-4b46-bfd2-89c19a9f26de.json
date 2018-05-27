@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2018-05-27 07:59:31 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log2": "2017-11-25 15:20:05 -0700"
@@ -350,6 +356,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2017-11-25 19:51:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2018-05-27 07:59:31 -0600"
     },
     "done": true
   },
@@ -996,6 +1008,7 @@
       "swampland": "2018-02-02 18:04:52 -0700",
       "deep_ocean": "2018-01-28 09:14:40 -0700",
       "beaches": "2017-12-07 11:00:07 -0700",
+      "extreme_hills_with_trees": "2018-05-27 07:50:09 -0600",
       "forest_hills": "2017-12-27 12:10:41 -0700",
       "plains": "2017-11-25 15:05:36 -0700",
       "taiga": "2018-02-05 19:11:25 -0700",
@@ -1478,6 +1491,7 @@
       "golden_apple": "2018-01-28 09:05:17 -0700",
       "rotten_flesh": "2017-12-24 11:41:14 -0700",
       "golden_carrot": "2018-03-03 09:50:45 -0700",
+      "beetroot": "2018-05-27 07:59:04 -0600",
       "cooked_chicken": "2017-12-23 14:34:06 -0700",
       "mushroom_stew": "2018-03-08 17:44:11 -0700",
       "cooked_salmon": "2017-11-25 20:05:43 -0700",
@@ -1791,6 +1805,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-01-27 11:42:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2018-05-27 07:58:55 -0600"
     },
     "done": true
   },
