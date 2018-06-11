@@ -743,6 +743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2018-06-09 14:05:34 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2018-01-28 15:53:33 -0700"
@@ -818,6 +824,12 @@
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_light_blue_wool": "2018-03-04 08:22:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2018-06-09 14:05:34 -0600"
     },
     "done": true
   },
@@ -1049,6 +1061,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2017-11-25 15:16:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2018-06-09 14:05:34 -0600"
     },
     "done": true
   },
@@ -1594,7 +1612,8 @@
       "bred_chicken": "2018-02-24 18:46:39 -0700",
       "bred_sheep": "2018-01-27 11:49:45 -0700",
       "bred_llama": "2018-03-03 09:41:15 -0700",
-      "bred_horse": "2018-04-06 16:30:08 -0600"
+      "bred_horse": "2018-04-06 16:30:08 -0600",
+      "bred_cow": "2018-06-07 17:18:42 -0600"
     },
     "done": false
   },
