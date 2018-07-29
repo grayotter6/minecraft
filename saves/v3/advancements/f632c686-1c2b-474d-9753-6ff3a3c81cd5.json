@@ -519,13 +519,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2017-11-24 18:08:22 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2017-11-24 18:08:22 -0700"
     },
@@ -947,13 +947,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-01-23 18:30:52 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-01-23 18:30:52 -0700"
     },
@@ -992,8 +992,8 @@
       "minecraft:magma_cube": "2018-02-17 10:06:52 -0700",
       "minecraft:spider": "2017-11-25 09:24:20 -0700",
       "minecraft:zombie": "2017-11-24 18:23:25 -0700",
-      "minecraft:creeper": "2017-11-25 09:13:28 -0700",
       "minecraft:drowned": "2018-07-28 12:09:31 -0600",
+      "minecraft:creeper": "2017-11-25 09:13:28 -0700",
       "minecraft:zombie_villager": "2017-12-29 18:29:39 -0700",
       "minecraft:slime": "2018-02-02 18:05:04 -0700"
     },
@@ -1700,8 +1700,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2017-12-24 11:48:37 -0700",
       "minecraft:forest": "2017-11-24 17:44:36 -0700",
+      "minecraft:mountains": "2017-12-24 11:48:37 -0700",
       "minecraft:taiga": "2018-02-05 20:04:07 -0700",
       "minecraft:birch_forest": "2017-12-10 11:41:24 -0700",
       "minecraft:beach": "2017-12-07 11:04:41 -0700",
