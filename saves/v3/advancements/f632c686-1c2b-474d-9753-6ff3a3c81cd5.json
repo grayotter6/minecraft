@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2018-08-05 19:50:34 -0600"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2017-11-25 11:17:04 -0700",
@@ -432,6 +438,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2017-11-24 17:45:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2018-08-05 20:22:35 -0600"
     },
     "done": true
   },
@@ -507,6 +519,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2018-08-05 19:47:04 -0600"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2017-11-25 11:27:42 -0700"
@@ -519,13 +537,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2017-11-24 18:08:22 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2017-11-24 18:08:22 -0700"
     },
@@ -576,6 +594,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2017-12-07 10:17:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2018-08-05 19:50:34 -0600"
     },
     "done": true
   },
@@ -992,8 +1016,8 @@
       "minecraft:magma_cube": "2018-02-17 10:06:52 -0700",
       "minecraft:spider": "2017-11-25 09:24:20 -0700",
       "minecraft:zombie": "2017-11-24 18:23:25 -0700",
-      "minecraft:drowned": "2018-07-28 12:09:31 -0600",
       "minecraft:creeper": "2017-11-25 09:13:28 -0700",
+      "minecraft:drowned": "2018-07-28 12:09:31 -0600",
       "minecraft:zombie_villager": "2017-12-29 18:29:39 -0700",
       "minecraft:slime": "2018-02-02 18:05:04 -0700"
     },
@@ -1101,6 +1125,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2017-12-16 17:13:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2018-08-05 20:00:14 -0600"
     },
     "done": true
   },
@@ -1542,6 +1572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2018-08-05 19:50:34 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2017-11-24 17:54:28 -0700"
@@ -1700,8 +1736,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2017-11-24 17:44:36 -0700",
       "minecraft:mountains": "2017-12-24 11:48:37 -0700",
+      "minecraft:forest": "2017-11-24 17:44:36 -0700",
       "minecraft:taiga": "2018-02-05 20:04:07 -0700",
       "minecraft:birch_forest": "2017-12-10 11:41:24 -0700",
       "minecraft:beach": "2017-12-07 11:04:41 -0700",
@@ -1972,6 +2008,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2017-11-24 18:19:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2018-08-05 20:01:47 -0600"
     },
     "done": true
   },
